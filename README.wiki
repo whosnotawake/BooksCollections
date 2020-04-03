@@ -586,17 +586,17 @@ TXT 格式的电子书一般用 Windows 自带的记事本（Notepad）可以直
 |-
 | 社会契约论 || 卢梭 || epub<br>mobi<br>pdf<br>扫描版pdf ||  ||  
 |-
-| 论人类不平等的起源与基础 || 扫描版pdf<br>英文版pdf ||  ||  ||  
+| 论人类不平等的起源与基础 ||  || 扫描版pdf<br>英文版pdf ||  ||  
 |-
 | 政府论 || 洛克 || epub<br>mobi<br>pdf<br>txt ||  ||  
 |-
-| 论宗教宽容 || pdf<br>扫描版pdf ||  ||  ||  
+| 论宗教宽容 ||  || pdf<br>扫描版pdf ||  ||  
 |-
 | 利维坦 || 霍布斯 || mobi<br>pdf ||  ||  
 |-
 | 代议制政府 || 密尔 || pdf<br>扫描版pdf ||  ||  
 |-
-| 论自由 || epub<br>mobi<br>pdf ||  ||  ||  
+| 论自由 ||  || epub<br>mobi<br>pdf ||  ||  
 |-
 | 国富论 || 亚当斯密 || epub<br>mobi<br>pdf<br>txt ||  ||  
 |-
@@ -604,7 +604,7 @@ TXT 格式的电子书一般用 Windows 自带的记事本（Notepad）可以直
 |-
 | 论美国的民主 || 托克维尔 || mobi<br>pdf ||  ||  
 |-
-| 旧制度与大革命 || epub<br>mobi<br>pdf<br>扫描版pdf ||  ||  ||  
+| 旧制度与大革命 ||  || epub<br>mobi<br>pdf<br>扫描版pdf ||  ||  
 |-
 | 自由主义 || 霍布豪斯 || mobi<br>pdf<br>txt ||  ||  
 |-
@@ -823,11 +823,11 @@ TXT 格式的电子书一般用 Windows 自带的记事本（Notepad）可以直
 |-
 | 历史深处的忧虑 || 林达 || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
-| 总统是靠不住的 || epub<br>mobi<br>pdf<br>azw3 ||  ||  ||  
+| 总统是靠不住的 ||  || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
-| 我也有一个梦想 || epub<br>mobi<br>pdf<br>azw3 ||  ||  ||  
+| 我也有一个梦想 ||  || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
-| 如彗星划过夜空 || epub<br>mobi<br>pdf<br>azw3 ||  ||  ||  
+| 如彗星划过夜空 ||  || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
 | 带一本书去巴黎 || epub<br>mobi<br>pdf<br>azw3 ||  ||  ||  
 |-
