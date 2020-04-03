@@ -143,7 +143,7 @@ TXT 格式的电子书一般用 Windows 自带的记事本（Notepad）可以直
 |-
 | 苏菲的世界 || 乔斯坦·贾德 || epub<br>mobi<br>pdf ||  ||  
 |-
-| 纸牌的秘密 || epub<br>mobi<br>pdf<br>azw3 ||  ||  ||  
+| 纸牌的秘密 ||  || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
 | 洋葱头历险记 || 贾尼·罗达里 || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
@@ -227,7 +227,7 @@ TXT 格式的电子书一般用 Windows 自带的记事本（Notepad）可以直
 |-
 | 小公子 ||  ||  ||  ||  
 |-
-| 小鹿班比 || epub<br>mobi<br>pdf<br>azw3 ||  ||  ||  
+| 小鹿班比 || 费利克斯·萨尔腾 || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
 | 王子与乞丐 || 马克·吐温 || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
@@ -500,7 +500,7 @@ TXT 格式的电子书一般用 Windows 自带的记事本（Notepad）可以直
 |-
 | 呐喊·彷徨 || 鲁迅 || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
-| 朝花夕拾 || epub<br>mobi<br>pdf<br>azw3 ||  ||  ||  
+| 朝花夕拾 ||  || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
 | 繁星·春水 || 冰心 || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
@@ -538,7 +538,7 @@ TXT 格式的电子书一般用 Windows 自带的记事本（Notepad）可以直
 |-
 | 胡适留学日记 ||  ||  ||  ||  
 |-
-| 容忍与自由：胡适演讲录 || epub<br>mobi<br>pdf<br>azw3 ||  ||  ||  
+| 容忍与自由：胡适演讲录 ||  || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
 | 胡适论治学 ||  ||  ||  ||  
 |-
