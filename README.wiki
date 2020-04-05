@@ -801,9 +801,9 @@ TXT 格式的电子书一般用 Windows 自带的记事本（Notepad）可以直
 |-
 | 我从战场归来 || 唐师曾 || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
-| 我钻进了金字塔 ||  || epub<br>mobi<br>pdf<br>azw3 ||  ||  
+| 我钻进了金字塔 || U || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |-
-| 重返巴格达 ||  || epub<br>mobi<br>pdf<br>azw3 ||  ||  
+| 重返巴格达 || U || epub<br>mobi<br>pdf<br>azw3 ||  ||  
 |}
 
 ==== 1.2.2.3 告诉你一个真实的美国  ====
