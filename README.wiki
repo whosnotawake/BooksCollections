@@ -243,7 +243,7 @@ TXT 格式的电子书一般用 Windows 自带的记事本（Notepad）可以直
 |-
 | 安徒生童话 || 安徒生 || epub<br>mobi<br>pdf<br>azw3 || 2020-04-06 ||  
 |-
-| 列那狐的故事 ||  ||  ||  ||  
+| 列那狐的故事 || 玛特·艾·继罗夫人 || epub<br>mobi<br>pdf<br>azw3 || 2020-04-06 ||  
 |-
 | 鲁滨逊漂流记 || 笛福 || epub<br>mobi<br>pdf<br>azw3 || 2020-04-06 ||  
 |-
