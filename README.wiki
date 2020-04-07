@@ -108,7 +108,7 @@ TXT 格式的电子书一般用 Windows 自带的记事本（Notepad）可以直
 
 '''【网盘】'''
 
-[https://https://drive.google.com/open?id=1_dqZyVaBqh8wwVWDfsG9AOsVikVI_8Ot/ 谷歌网盘]
+[https://drive.google.com/open?id=1_dqZyVaBqh8wwVWDfsG9AOsVikVI_8Ot/ 谷歌网盘]
 
   密钥：BHOEXDGG3CACLUBF52JZOTQKFCHU6M4C4（此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
